@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieList</string>
+    <string name="title_discover_movies">Discover</string>
+    <string name="title_favorite_movies">Favorites</string>
+    <string name="title_user_profile">Profile</string>
+    <string name="an_error_occurred_while_loading_data">An error occurred while\nloading data.</string>
+    <string name="discover_movies">Discover Movies</string>
+    <string name="find_the_movies_that_suits_you_the_best">Find the movies that suits you the best.</string>
+</resources>
